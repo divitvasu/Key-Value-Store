@@ -1,0 +1,94 @@
+Sep 27, 2021 2:59:39.268 PM com.distributedsystems.Client_TCP_app main
+INFO: CONNECTION ESTABLISHED WITH SERVER AND I/O OBJECTS INITIALISED SUCCESSFULLY
+Sep 27, 2021 2:59:39.298 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: PUT-request sent to the server [put, 1, A]
+Sep 27, 2021 2:59:39.315 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: Server response [ACK-Added pair!]
+Sep 27, 2021 2:59:39.316 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: PUT-request sent to the server [put, 2, B]
+Sep 27, 2021 2:59:39.317 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: Server response [ACK-Added pair!]
+Sep 27, 2021 2:59:39.318 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: PUT-request sent to the server [put, 3, C]
+Sep 27, 2021 2:59:39.319 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: Server response [ACK-Added pair!]
+Sep 27, 2021 2:59:39.320 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: PUT-request sent to the server [put, 4, D]
+Sep 27, 2021 2:59:39.321 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: Server response [ACK-Added pair!]
+Sep 27, 2021 2:59:39.322 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: PUT-request sent to the server [put, 5, E]
+Sep 27, 2021 2:59:39.324 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: Server response [ACK-Added pair!]
+Sep 27, 2021 2:59:39.325 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: GET-request sent to the server [get, 1]
+Sep 27, 2021 2:59:39.327 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: Server response [ACK-Fetched pair! 1:A]
+Sep 27, 2021 2:59:39.328 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: GET-request sent to the server [get, 2]
+Sep 27, 2021 2:59:39.329 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: Server response [ACK-Fetched pair! 2:B]
+Sep 27, 2021 2:59:39.329 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: GET-request sent to the server [get, 3]
+Sep 27, 2021 2:59:39.330 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: Server response [ACK-Fetched pair! 3:C]
+Sep 27, 2021 2:59:39.331 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: GET-request sent to the server [get, 4]
+Sep 27, 2021 2:59:39.332 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: Server response [ACK-Fetched pair! 4:D]
+Sep 27, 2021 2:59:39.333 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: GET-request sent to the server [get, 5]
+Sep 27, 2021 2:59:39.334 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: Server response [ACK-Fetched pair! 5:E]
+Sep 27, 2021 2:59:39.335 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: DEL-request sent to the server [del, 1]
+Sep 27, 2021 2:59:39.336 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: Server response [ACK-Deleted pair!]
+Sep 27, 2021 2:59:39.336 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: DEL-request sent to the server [del, 2]
+Sep 27, 2021 2:59:39.337 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: Server response [ACK-Deleted pair!]
+Sep 27, 2021 2:59:39.338 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: DEL-request sent to the server [del, 3]
+Sep 27, 2021 2:59:39.339 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: Server response [ACK-Deleted pair!]
+Sep 27, 2021 2:59:39.340 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: DEL-request sent to the server [del, 4]
+Sep 27, 2021 2:59:39.342 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: Server response [ACK-Deleted pair!]
+Sep 27, 2021 2:59:39.342 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: DEL-request sent to the server [del, 5]
+Sep 27, 2021 2:59:39.343 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: Server response [ACK-Deleted pair!]
+Sep 27, 2021 2:59:44.446 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: PUT-request sent to the server [put, 1, divit]
+Sep 27, 2021 2:59:44.448 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: Server response [ACK-Added pair!]
+Sep 27, 2021 2:59:54.287 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: PUT-request sent to the server [put, 3, vasu]
+Sep 27, 2021 2:59:54.288 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: Server response [ACK-Added pair!]
+Sep 27, 2021 3:00:06.756 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: PUT-request sent to the server [put, 4, ddvv]
+Sep 27, 2021 3:00:06.758 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: Server response [ACK-Added pair!]
+Sep 27, 2021 3:00:10.027 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: GET-request sent to the server [get, 2]
+Sep 27, 2021 3:00:10.031 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: Server response [ERR-Could not find Key to get, DNE!]
+Sep 27, 2021 3:00:13.063 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: GET-request sent to the server [get, 1]
+Sep 27, 2021 3:00:13.065 PM com.distributedsystems.Client_TCP_app get_pair
+INFO: Server response [ACK-Fetched pair! 1:divit]
+Sep 27, 2021 3:00:16.641 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: DEL-request sent to the server [del, 1]
+Sep 27, 2021 3:00:16.642 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: Server response [ACK-Deleted pair!]
+Sep 27, 2021 3:00:20.607 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: DEL-request sent to the server [del, 5]
+Sep 27, 2021 3:00:20.609 PM com.distributedsystems.Client_TCP_app delete_pair
+INFO: Server response [ERR-Could not find Key to delete, DNE!]
+Sep 27, 2021 3:00:24.841 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: PUT-request sent to the server [put, d, ]
+Sep 27, 2021 3:00:24.843 PM com.distributedsystems.Client_TCP_app put_pair
+INFO: Server response [ERR- Datagram [put, d, ] is invalid!]

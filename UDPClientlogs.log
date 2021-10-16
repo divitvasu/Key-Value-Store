@@ -1,0 +1,64 @@
+Sep 27, 2021 1:31:59.480 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: PUT-request sent to the server [put, 1, A]
+Sep 27, 2021 1:31:59.494 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: Server response ACK-Added pair!
+Sep 27, 2021 1:31:59.495 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: PUT-request sent to the server [put, 2, B]
+Sep 27, 2021 1:31:59.510 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: Server response ACK-Added pair!
+Sep 27, 2021 1:31:59.511 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: PUT-request sent to the server [put, 3, C]
+Sep 27, 2021 1:31:59.512 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: Server response ACK-Added pair!
+Sep 27, 2021 1:31:59.513 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: PUT-request sent to the server [put, 4, D]
+Sep 27, 2021 1:31:59.514 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: Server response ACK-Added pair!
+Sep 27, 2021 1:31:59.515 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: PUT-request sent to the server [put, 5, E]
+Sep 27, 2021 1:31:59.516 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: Server response ACK-Added pair!
+Sep 27, 2021 1:31:59.517 PM com.distributedsystems.Client_UDP_app get_pair
+INFO: GET-request sent to the server [get, 1]
+Sep 27, 2021 1:31:59.518 PM com.distributedsystems.Client_UDP_app get_pair
+INFO: Server response ACK-Fetched pair! 1:A
+Sep 27, 2021 1:31:59.519 PM com.distributedsystems.Client_UDP_app get_pair
+INFO: GET-request sent to the server [get, 2]
+Sep 27, 2021 1:31:59.520 PM com.distributedsystems.Client_UDP_app get_pair
+INFO: Server response ACK-Fetched pair! 2:B
+Sep 27, 2021 1:31:59.521 PM com.distributedsystems.Client_UDP_app get_pair
+INFO: GET-request sent to the server [get, 3]
+Sep 27, 2021 1:31:59.521 PM com.distributedsystems.Client_UDP_app get_pair
+INFO: Server response ACK-Fetched pair! 3:C
+Sep 27, 2021 1:31:59.522 PM com.distributedsystems.Client_UDP_app get_pair
+INFO: GET-request sent to the server [get, 4]
+Sep 27, 2021 1:31:59.523 PM com.distributedsystems.Client_UDP_app get_pair
+INFO: Server response ACK-Fetched pair! 4:D
+Sep 27, 2021 1:31:59.524 PM com.distributedsystems.Client_UDP_app get_pair
+INFO: GET-request sent to the server [get, 5]
+Sep 27, 2021 1:31:59.525 PM com.distributedsystems.Client_UDP_app get_pair
+INFO: Server response ACK-Fetched pair! 5:E
+Sep 27, 2021 1:31:59.526 PM com.distributedsystems.Client_UDP_app delete_pair
+INFO: DEL-request sent to the server [del, 1]
+Sep 27, 2021 1:31:59.527 PM com.distributedsystems.Client_UDP_app delete_pair
+INFO: Server response ACK-Deleted pair!
+Sep 27, 2021 1:31:59.527 PM com.distributedsystems.Client_UDP_app delete_pair
+INFO: DEL-request sent to the server [del, 2]
+Sep 27, 2021 1:31:59.528 PM com.distributedsystems.Client_UDP_app delete_pair
+INFO: Server response ACK-Deleted pair!
+Sep 27, 2021 1:31:59.528 PM com.distributedsystems.Client_UDP_app delete_pair
+INFO: DEL-request sent to the server [del, 3]
+Sep 27, 2021 1:31:59.529 PM com.distributedsystems.Client_UDP_app delete_pair
+INFO: Server response ACK-Deleted pair!
+Sep 27, 2021 1:31:59.530 PM com.distributedsystems.Client_UDP_app delete_pair
+INFO: DEL-request sent to the server [del, 4]
+Sep 27, 2021 1:31:59.530 PM com.distributedsystems.Client_UDP_app delete_pair
+INFO: Server response ACK-Deleted pair!
+Sep 27, 2021 1:31:59.531 PM com.distributedsystems.Client_UDP_app delete_pair
+INFO: DEL-request sent to the server [del, 5]
+Sep 27, 2021 1:31:59.532 PM com.distributedsystems.Client_UDP_app delete_pair
+INFO: Server response ACK-Deleted pair!
+Sep 27, 2021 1:32:04.682 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: PUT-request sent to the server [put, 1, divit]
+Sep 27, 2021 1:32:04.684 PM com.distributedsystems.Client_UDP_app put_pair
+INFO: Server response ACK-Added pair!

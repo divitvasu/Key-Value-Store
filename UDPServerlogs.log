@@ -1,0 +1,32 @@
+Sep 27, 2021 1:31:59.496 PM com.distributedsystems.Server_UDP_app put_pair
+INFO: Request [put, 1, A] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.510 PM com.distributedsystems.Server_UDP_app put_pair
+INFO: Request [put, 2, B] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.511 PM com.distributedsystems.Server_UDP_app put_pair
+INFO: Request [put, 3, C] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.513 PM com.distributedsystems.Server_UDP_app put_pair
+INFO: Request [put, 4, D] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.515 PM com.distributedsystems.Server_UDP_app put_pair
+INFO: Request [put, 5, E] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.518 PM com.distributedsystems.Server_UDP_app get_pair
+INFO: Request [get, 1] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.519 PM com.distributedsystems.Server_UDP_app get_pair
+INFO: Request [get, 2] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.521 PM com.distributedsystems.Server_UDP_app get_pair
+INFO: Request [get, 3] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.522 PM com.distributedsystems.Server_UDP_app get_pair
+INFO: Request [get, 4] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.524 PM com.distributedsystems.Server_UDP_app get_pair
+INFO: Request [get, 5] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.527 PM com.distributedsystems.Server_UDP_app delete_pair
+INFO: Request [del, 1] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.527 PM com.distributedsystems.Server_UDP_app delete_pair
+INFO: Request [del, 2] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.529 PM com.distributedsystems.Server_UDP_app delete_pair
+INFO: Request [del, 3] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.530 PM com.distributedsystems.Server_UDP_app delete_pair
+INFO: Request [del, 4] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:31:59.531 PM com.distributedsystems.Server_UDP_app delete_pair
+INFO: Request [del, 5] from client Vulcan/10.0.0.60:20001 performed on Hashmap
+Sep 27, 2021 1:32:04.684 PM com.distributedsystems.Server_UDP_app put_pair
+INFO: Request [put, 1, divit] from client Vulcan/10.0.0.60:20001 performed on Hashmap
